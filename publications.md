@@ -17,13 +17,12 @@
 ## Publications – First Authored/Journal
 1. Chakraborty, S, Boteler DH, Shi X, Murphy BS, Hartinger MD, Wang X, Lucas G and Baker JBH (2022) Modeling geomagnetic induction in submarine cables. Front. Phys. 10:1022475. doi: 10.3389/fphy.2022.1022475.
 2. Chakraborty, S., Qian, L., Baker, J. B. H., Ruohoniemi, J. M., Kuyeng, K., and Mclnerney, J. M. (2022). Driving influences of the Doppler flash observed by SuperDARN HF radars in response to solar flares. Journal of Geophysical Research: Space Physics, 127, e2022JA030342. doi: 10.1029/2022JA030342.
-3. Chakraborty, S., Baker, J. B. H., and Ruohoniemi, J. M., Probabilistic Short-wave Fadeout Detection in SuperDARN Time Series Observations, 2021 IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE), 2021, pp. 43-48, doi: 10.1109/WiSEE50203.2021.9613835.
-4. Chakraborty, S., Qian, L., Ruohoniemi, J. M., Baker, J. B. H., Mclnerney, J. M., and Nishitani, N. (2021). The role of flare-driven ionospheric electron density changes on the Doppler flash observed by SuperDARN HF radars. Journal of Geophysical Research: Space Physics, 126, e2021JA029300. doi: 10.1029/2021JA029300.
-5. Chakraborty, S., Baker, J. B. H., Fiori, R. A. D., Ruohoniemi, J. M., and Zawdie, K. A. (2021). A modeling framework for estimating ionospheric HF absorption produced by solar flares. Radio Science, 56, e2021RS007285. doi:10.1029/2021RS007285.
-6. Chakraborty, S., Ruohoniemi, J. M., Baker, J. B. H., Fiori, R. A. D., Bailey, S. M., and Zawdie, K. A. (2021). Ionospheric Sluggishness: A Characteristic Time‐Lag of the Ionospheric Response to Solar Flares. Journal of Geophysical Research: Space Physics, 126, e2020JA028813.  doi: 10.1029/2020JA028813.
-7. Chakrabarty, S. and Morley, S. K. (2020). Probabilistic Prediction of Geomagnetic Storms and the Kp Index., Journal of Space Weather and Space Climate, doi:10.1051/swsc/2020037.
-8. Chakrabarty, S., Baker, J. B. H., Ruohoniemi, J. M., Kunduri, B., Nishitani, N., and Shepherd, S. G. (2019). A Study of SuperDARN Response to Co-occurring Space Weather Phenomena. Space Weather, 17, doi:10.1029/2019SW002179.
-9. Chakrabarty, S., Ruohoniemi, J. M., Baker, J. B. H., and Nishitani, N. (2018). Characterization of short-wave fadeout seen in daytime SuperDARN ground scatter observations. Radio Science, 53, 472-484, doi:10.1002/2017RS006488. 
+3. Chakraborty, S., Qian, L., Ruohoniemi, J. M., Baker, J. B. H., Mclnerney, J. M., and Nishitani, N. (2021). The role of flare-driven ionospheric electron density changes on the Doppler flash observed by SuperDARN HF radars. Journal of Geophysical Research: Space Physics, 126, e2021JA029300. doi: 10.1029/2021JA029300
+4. Chakraborty, S., Baker, J. B. H., Fiori, R. A. D., Ruohoniemi, J. M., and Zawdie, K. A. (2021). A modeling framework for estimating ionospheric HF absorption produced by solar flares. Radio Science, 56, e2021RS007285. doi:10.1029/2021RS007285.
+5. Chakraborty, S., Ruohoniemi, J. M., Baker, J. B. H., Fiori, R. A. D., Bailey, S. M., and Zawdie, K. A. (2021). Ionospheric Sluggishness: A Characteristic Time‐Lag of the Ionospheric Response to Solar Flares. Journal of Geophysical Research: Space Physics, 126, e2020JA028813.  doi: 10.1029/2020JA028813.
+6. Chakrabarty, S. and Morley, S. K. (2020). Probabilistic Prediction of Geomagnetic Storms and the Kp Index., Journal of Space Weather and Space Climate, doi:10.1051/swsc/2020037.
+7. Chakrabarty, S., Baker, J. B. H., Ruohoniemi, J. M., Kunduri, B., Nishitani, N., and Shepherd, S. G. (2019). A Study of SuperDARN Response to Co-occurring Space Weather Phenomena. Space Weather, 17, doi:10.1029/2019SW002179.
+8. Chakrabarty, S., Ruohoniemi, J. M., Baker, J. B. H., and Nishitani, N. (2018). Characterization of short-wave fadeout seen in daytime SuperDARN ground scatter observations. Radio Science, 53, 472-484, doi:10.1002/2017RS006488. 
 
 ## Publications – Collaborative/Journal
 1. Coyle, S. E., Baker, J. B. H., Chakraborty, S., Hartinger, M. D., Freeman, M. P., Clauer, C. R., et al. (2023). Substorms and solar eclipses: A mutual information-based study. Geophysical Research Letters, 50, e2023GL106432. https://doi.org/10.1029/2023GL106432
@@ -40,11 +39,12 @@
 12. Fiori, R. A. D., Koustov, A. V., Chakrabarty, S., Ruohoniemi, J. M., Danskin, D. W., Boteler, D. H., and Shepherd, S. G. (2018). Examining the Potential of the Super Dual Auroral Radar Network for Monitoring the Space Weather Impact of Solar X-Ray Flares. Space Weather, 16, doi:10.1029/2018SW001905. 
 
 ## Publications – Collaborative/Conference
-1. Chakraborty, S., Ruohoniemi, J. M., Baker, J. B. H. and Fiori, R. and Zawdie, K. and Bailey, S. and Nishitani, N. and Drob, D. et al., Sluggishness of the Ionosphere: Characteristic time-lag in Response to Solar Flares, 2020 XXXIIIrd General Assembly and Scientific Symposium of the International Union of Radio Science, Rome, Italy, 2020, pp. 1-4, doi: 10.23919/URSIGASS49373.2020.9232206.
-2. Chakrabarty, S., U. Mukherjee, Circular Micro-strip Antenna Modelling using FDTD method and Design using Genetic Algorithms. CALCON – 2015, ID: EC20140700015.
-3. Chakrabarty, S., Mukherjee, U., Circular Micro-strip (Coax Feed) Antenna Modelling using FDTD Method and Design using Genetic Algorithms: A Comparative Study on Different Types of Design Techniques, ICCCT - 2014, IEEE Digital Xplore, doi:10.1109/ICCCT.2014.7001514.
-4. Chakrabarty, S., Mukherjee, U., Comparative Study of Micro-strip antennas designed by coaxial feed and line feed, ICCCT - 2011, IEEE Digital Xplore, doi:10.1109/ICCCT.2011.6075196.
-5. Chakrabarty, S., Mukherjee, U., Micro-strip antenna optimization using genetic algorithms, ICCCT - 2010, IEEE Digital Explore, doi:10.1109/ICCCT.2011.6075196.
+1. Chakraborty, S., Baker, J. B. H., and Ruohoniemi, J. M., Probabilistic Short-wave Fadeout Detection in SuperDARN Time Series Observations, 2021 IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE), 2021, pp. 43-48, doi: 10.1109/WiSEE50203.2021.9613835.
+2. Chakraborty, S., Ruohoniemi, J. M., Baker, J. B. H. and Fiori, R. and Zawdie, K. and Bailey, S. and Nishitani, N. and Drob, D. et al., Sluggishness of the Ionosphere: Characteristic time-lag in Response to Solar Flares, 2020 XXXIIIrd General Assembly and Scientific Symposium of the International Union of Radio Science, Rome, Italy, 2020, pp. 1-4, doi: 10.23919/URSIGASS49373.2020.9232206.
+3. Chakrabarty, S., U. Mukherjee, Circular Micro-strip Antenna Modelling using FDTD method and Design using Genetic Algorithms. CALCON – 2015, ID: EC20140700015.
+4. Chakrabarty, S., Mukherjee, U., Circular Micro-strip (Coax Feed) Antenna Modelling using FDTD Method and Design using Genetic Algorithms: A Comparative Study on Different Types of Design Techniques, ICCCT - 2014, IEEE Digital Xplore, doi:10.1109/ICCCT.2014.7001514.
+5. Chakrabarty, S., Mukherjee, U., Comparative Study of Micro-strip antennas designed by coaxial feed and line feed, ICCCT - 2011, IEEE Digital Xplore, doi:10.1109/ICCCT.2011.6075196.
+6. Chakrabarty, S., Mukherjee, U., Micro-strip antenna optimization using genetic algorithms, ICCCT - 2010, IEEE Digital Explore, doi:10.1109/ICCCT.2011.6075196.
 
 ## Selected Presentations/Talks
 1. Chakraborty, S. (**Invited**), Characterization of Solar Flare Effects Observed by High Frequency Radar, HAO Colloquium, 12 July, 2023, Online.
